@@ -9,3 +9,5 @@ gem 'rubocop'
 gem 'simplecov'
 gem 'simplecov-console'
 gem 'sinatra'
+
+gem "shotgun", "~> 0.9.2"
